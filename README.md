@@ -1,0 +1,1 @@
+koocli static binary
